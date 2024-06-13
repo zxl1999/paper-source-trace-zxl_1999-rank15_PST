@@ -4,7 +4,11 @@
 
 - kaggle online training enivronment
 
+https://www.kaggle.com/code/zxl2022/paper-source-trace-zxl-1999-rank15-pst
 
+
+
+You can try running the test dataset and download it locally at "/kaggle/working/"
 
 
 
