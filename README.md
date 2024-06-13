@@ -31,6 +31,20 @@ cd paper-source-trace
 
 ## Run Baselines for [KDD Cup 2024](https://www.biendata.xyz/competition/pst_kdd_2024/)
 
+Preparing DataSet and Trainging Weight
+
+
+
+DataSet(paper-xml)
+
+https://drive.google.com/drive/folders/1MqpsQw6Kev70DuRKjYP0C7dvnA72mdfT?usp=sharing
+
+
+
+Trainging Weight(bert-base-uncased,Need to be placed in the bertModel folder) 
+
+https://huggingface.co/google-bert/bert-base-uncased/tree/main
+
 
 
 Training
