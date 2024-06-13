@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+E:/paper-source-trace-zxl_1999-rank15_PST/paper-source-trace-zxl_1999-rank15_PST/out/kddcup/bertModel filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
